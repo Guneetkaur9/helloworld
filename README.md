@@ -1,2 +1,4 @@
 # helloworld
-just another repository
+hey 
+I am Guneet kaur.
+I am from gtbit 3rd year in ECE.
